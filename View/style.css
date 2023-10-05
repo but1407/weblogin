@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.list {
+    position: relative;
+    left: -50px;
+    top: 80px;
+    color: green;
+    border: 1px solid #333;
+    border-radius: .25rem !important;
+    text-decoration: none;
+    font-size: 20;
+}
+
+.list:hover {
+    color: red;
+}
+
+.category {
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+.category table {
+    width: 500px;
+}
